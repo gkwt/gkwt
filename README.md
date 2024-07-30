@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there. I'm Gary. 👋
 
 <!--
 **gkwt/gkwt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am trained as a physicist and chemist. I am interested in AI for sciences, in particular topics in physical chemistry. 
+
+🔭 Things that I have worked on: 
+- Drug discovery
+- Small dataset molecular prediction models
+- Graph models for chemistry
+- Generative models
